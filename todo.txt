@@ -23,5 +23,4 @@ try to deploy velero and backup & restore cluster
 create a user for ansible
 copy ssh key from my user to VM 
 add my created user to sudoers
-update alternative for python
 
