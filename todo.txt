@@ -1,0 +1,27 @@
+TODO : 
+
+### ENV ###
+create a testing environment for k8s
+
+2 VM : 
+one master
+one worker
+
+OS : Ubuntu 20.04
+
+### PURPOSE ###
+
+try to install k8s with rke (if possible with job role)
+deploy a rancherUI inside the cluster
+
+try to upgrade the cluster
+try to upgrade the nginx ingress
+try to deploy velero and backup & restore cluster
+
+### VM Template ###
+
+create a user for ansible
+copy ssh key from my user to VM 
+add my created user to sudoers
+update alternative for python
+
